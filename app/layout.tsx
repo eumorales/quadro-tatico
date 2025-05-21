@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Quadro Tático | gilbertomorales.com',
-  description: 'DESC',
+  description: 'Uma aplicação web de quadro tático para planejar e visualizar jogadas de voleibol.',
   icons: {
       icon: '/favicon.png', 
     },
